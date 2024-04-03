@@ -24,10 +24,9 @@ Before you can run the script, you'll need to have Python installed on your mach
 ### Installation
 
 1. Clone the repository to your local machine:
-
-   ```sh
+```sh
    git clone https://github.com/SidmoGoesBrrr/Piano-Tiles-Automation
-   ```
+```
 2. Navigate to the project directory:
 ```sh
 cd piano-tiles-automation
